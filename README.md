@@ -10,6 +10,7 @@ The top-level helmet function is a wrapper around 15 smaller middlewares, 11 of 
 
 In other words, these two things are equivalent:
 
+<ul>
 // This...
 app.use(helmet());
 
@@ -44,3 +45,5 @@ app.use(
   })
 );
 
+ 
+</ul>
