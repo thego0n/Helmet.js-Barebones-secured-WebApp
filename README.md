@@ -1,2 +1,1 @@
-# Helmet.js-Barebones-secured-WebApp
-Helmet can help protect your app from some well-known web vulnerabilities by setting HTTP headers appropriately.
+# [Introduction to Information Security with HelmetJS Challenges](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/)
